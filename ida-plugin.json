@@ -5,8 +5,17 @@
     "entryPoint": "sources/python/extract_hvcalls.py",
     "categories": ["decompilation", "file-parsers-and-loaders","api-scripting-and-automation"],
     "logoPath": "images/image001.png",
-    "idaVersions": "7.5 - 8.3",
-    "description": "Hvcalls GUI is utility for automatically Microsoft Hyper-V hypercalls names and code numbers extraction from Hyper-V core binaries",
-    "version": "1.0.0"
+    "idaVersions": ">=9.0",
+    "license": "GPL3",
+    "description": "Hvcalls GUI is utility for automatically extraction of Microsoft Hyper-V hypercalls names and code numbers from Hyper-V core binaries using IDA",
+    "version": "2.0.20260204",
+    "urls": {
+      "repository": "https://github.com/gerhart01/Extract.Hvcalls"
+    },
+    "authors": [
+      {
+        "name": "Arthur Khudyaev"
+      },
+    ],
   }
 }

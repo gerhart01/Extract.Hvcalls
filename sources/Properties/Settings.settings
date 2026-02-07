@@ -1,0 +1,15 @@
+<!--
+ File: Properties\Settings.settings
+ Project: Extract.Hvcalls GUI v2.0.20250.101
+ 
+ Description: Application settings configuration file
+ Author: Visual Studio (Generated)
+ License: GPL3
+-->
+
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+</SettingsFile>
